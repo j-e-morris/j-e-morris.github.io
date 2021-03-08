@@ -1,0 +1,46 @@
+---
+title: "Jenna Morris"
+image: "JMorris_action_square.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jenna-e-morris/"
+  - label: Twitter
+    url: "https://twitter.com/JennaEMorris"
+  - label: GitHub
+    url: "https://github.com/j-e-morris"
+  - label: Email
+    url: "mailto:jemorris@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Jenna Morris (she/her) studies forest disturbances and their applications at Google 
+Brain. Her research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+Ph.D. in Environmental & Forest Sciences | January 2021 - present
+
+**University of Washington** | Seattle, WA
+
+M.S. in Environmental & Forest Sciences | September 2018 - December 2020
+
+**Whitworth University** | Spokane, WA
+
+B.S. in Biology & Environmental Studies | August 2013 - May 2017
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**National Ecological Observatory Network (NEON)** | Field Technician | June 2017 - October 2017
+
+## Hobbies
