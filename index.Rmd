@@ -1,5 +1,5 @@
 ---
-title: "Jenna Morris"
+title: "Jenna E. Morris"
 image: "JMorris_action_square.jpg"
 links:
   - label: LinkedIn
@@ -16,12 +16,7 @@ output:
  
 ## Bio
 
-Jenna Morris (she/her) studies forest disturbances and their applications at Google 
-Brain. Her research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Jenna Morris (she/her) is a research ecologist passionate about supporting climate adaptation efforts. Currently a PhD Candidate in the Harvey Lab at the University of Washington, her graduate work explores the effects of disturbances (e.g., fire, insect outbreaks) on forests in the Pacific Northwest and Rocky Mountains, leveraging field studies, permanent plot networks, and landscape modeling to improve our ability to maintain resilient forest structure and function in a changing climate. Jenna’s current research focuses on anticipating post-fire forest recovery in northwestern Cascadia under future climate and management scenarios. 
 
 ## Education
 
@@ -39,8 +34,16 @@ B.S. in Biology & Environmental Studies | August 2013 - May 2017
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**University of Washington** | Graduate Research Assistant | April 2018 - Present
 
 **National Ecological Observatory Network (NEON)** | Field Technician | June 2017 - October 2017
 
 ## Hobbies
+
+Hiking & being outdoors
+
+Trying new recipes
+
+Creating & admiring visual art
+
+Watching (& formerly playing) the beautiful game
