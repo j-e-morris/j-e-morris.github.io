@@ -4,8 +4,8 @@ image: "JMorris_action_square.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/jenna-e-morris/"
-  - label: Twitter
-    url: "https://twitter.com/JennaEMorris"
+  - label: Bluesky
+    url: "https://bsky.app/profile/jenna-e-morris.bsky.social"
   - label: GitHub
     url: "https://github.com/j-e-morris"
   - label: Email
@@ -16,13 +16,13 @@ output:
  
 ## Bio
 
-Jenna Morris (she/her) is a research ecologist passionate about supporting climate adaptation efforts. Currently a PhD Candidate in the Harvey Lab at the University of Washington, her graduate work explores the effects of disturbances (e.g., fire, insect outbreaks) on forests in the Pacific Northwest and Rocky Mountains, leveraging field studies, permanent plot networks, and landscape modeling to improve our ability to maintain resilient forest structure and function in a changing climate. Jenna’s current research focuses on anticipating post-fire forest recovery in northwestern Cascadia under future climate and management scenarios. 
+Jenna Morris (she/her) is a forest ecologist passionate about supporting climate adaptation through actionable science for sustainable resource management. Currently a Postdoctoral Researcher in the Harvey Lab at the University of Washington, her work explores the effects of disturbances (fire, insect outbreaks) on forests in the Pacific Northwest and Rocky Mountains, leveraging field studies, permanent plot networks, and simulation modeling to improve our ability to maintain resilient forest structure and function in a changing climate. Jenna’s current research focuses on anticipating post-fire forest recovery across the Cascades under future climate and management scenarios. 
 
 ## Education
 
 **University of Washington** | Seattle, WA
 
-Ph.D. in Environmental & Forest Sciences | January 2021 - present
+Ph.D. in Environmental & Forest Sciences | January 2021 - June 2025
 
 **University of Washington** | Seattle, WA
 
@@ -34,9 +34,17 @@ B.S. in Biology & Environmental Studies | August 2013 - May 2017
 
 ## Experience
 
-**University of Washington** | Graduate Research Assistant | April 2018 - Present
+**University of Washington, School of Environmental and Forest Sciences** | Graduate Research Assistant, PhD | January 2021 - June 2025
 
-**National Ecological Observatory Network (NEON)** | Field Technician | June 2017 - October 2017
+**University of Washington, School of Environmental and Forest Sciences** | Graduate Research Assistant, MS | April 2018 - December 2020
+
+**National Ecological Observatory Network (NEON), Domain 10/13** | Temporary Field Technician I, Botany | June 2017 - October 2017
+
+**Whitworth University, Biology Department** | Undergraduate Research Assistant | 2014 - 2017
+
+**Whitworth University, Biology Department** | Summer Research Assistant, sage-grouse brooding habitat | 2015, 2016
+
+**Whitworth University, Biology Department** | Summer Research Assistant, land surface phenology | 2014
 
 ## Hobbies
 
